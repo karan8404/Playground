@@ -18,7 +18,7 @@ void inputStudent(struct student *s)
     scanf("%d",&s->univRoll);
 
     printf("Enter student name\n");
-    scanf("%[^\n]\n", &s->name);
+    scanf(" %[^\n]s", &s->name);// %[^\n]s. whitespace to omit all whitespaces.
 
 }
 
@@ -29,7 +29,7 @@ void printStudent(struct student *s)
     printf("Name: %s\n", s->name);
 }
 
-int main()
+void main()
 {
     struct student s1 = {66, 118, "Karan Kawathia"};
     printStudent(&s1);

@@ -53,5 +53,5 @@ Mkfile.old
 dkms.conf
 
 #java
-**/*.class
-**/*.vscode
+*.class
+*.vscode

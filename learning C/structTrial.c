@@ -12,14 +12,13 @@ struct student
 void inputStudent(struct student *s)
 {
     printf("Enter student roll\n");
-    scanf("%d",&s->roll);
+    scanf("%d", &s->roll);
 
     printf("Enter student University roll\n");
-    scanf("%d",&s->univRoll);
+    scanf("%d", &s->univRoll);
 
     printf("Enter student name\n");
-    scanf(" %[^\n]s", &s->name);// %[^\n]s. whitespace to omit all whitespaces.
-
+    scanf(" %[^\n]s", &s->name); // %[^\n]s. whitespace to omit all whitespaces.
 }
 
 void printStudent(struct student *s)
@@ -44,7 +43,8 @@ void main()
         inputStudent(&students[i]);
     }
 
-    for(int i=0;i<n;i++){
+    for (int i = 0; i < n; i++)
+    {
         printStudent(&students[i]);
     }
 }

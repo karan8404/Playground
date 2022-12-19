@@ -33,6 +33,7 @@
 *.out
 *.app
 *.i*86
+
 *.x86_64
 *.hex
 
@@ -50,3 +51,7 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+#java
+**/*.class
+**/*.vscode

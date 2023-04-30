@@ -42,7 +42,7 @@ void printPrimes(vector<bool> &primes)
 int main()
 {
     cout << "Enter the number till which primes are to be found\n";
-    int n = 100'000'000;
+    int n = 1'000'000;
     // cin >> n;
     n = n + 1;
     vector<bool> primes;

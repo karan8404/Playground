@@ -1,4 +1,6 @@
-import java.util.*;
+import java.util.Scanner;
+import java.util.HashMap;
+import java.util.Map;
 
 class CountLetters {
     public static void main(String[] args) {

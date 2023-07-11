@@ -1,0 +1,15 @@
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.csproj.AssemblyReference.cache
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.AssemblyInfoInputs.cache
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.AssemblyInfo.cs
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.csproj.CoreCompileInputs.cache
+D:\karan\Programming\playground\c# testing\bin\Debug\net7.0\c# testing.exe
+D:\karan\Programming\playground\c# testing\bin\Debug\net7.0\c# testing.deps.json
+D:\karan\Programming\playground\c# testing\bin\Debug\net7.0\c# testing.runtimeconfig.json
+D:\karan\Programming\playground\c# testing\bin\Debug\net7.0\c# testing.dll
+D:\karan\Programming\playground\c# testing\bin\Debug\net7.0\c# testing.pdb
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.dll
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\refint\c# testing.dll
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.pdb
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\c# testing.genruntimeconfig.cache
+D:\karan\Programming\playground\c# testing\obj\Debug\net7.0\ref\c# testing.dll
